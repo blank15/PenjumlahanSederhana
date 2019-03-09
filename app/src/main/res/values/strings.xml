@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Penjumlahan Sederhana</string>
+    <string name="hitung_luas_persegi">Hitung Luas Persegi</string>
+    <string name="masukkan_panjang">Masukkan Panjang</string>
+    <string name="masukkan_lebar">Masukkan Lebar</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil :</string>
+</resources>
